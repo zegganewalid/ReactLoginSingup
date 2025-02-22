@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/login-signup/static/css/main.4209de6f.css",
-    "main.js": "/login-signup/static/js/main.fc08f7ad.js",
-    "static/js/453.1b6d1e41.chunk.js": "/login-signup/static/js/453.1b6d1e41.chunk.js",
-    "index.html": "/login-signup/index.html",
-    "main.4209de6f.css.map": "/login-signup/static/css/main.4209de6f.css.map",
-    "main.fc08f7ad.js.map": "/login-signup/static/js/main.fc08f7ad.js.map",
-    "453.1b6d1e41.chunk.js.map": "/login-signup/static/js/453.1b6d1e41.chunk.js.map"
+    "main.css": "/ReactLoginSingup/static/css/main.4209de6f.css",
+    "main.js": "/ReactLoginSingup/static/js/main.2a3f759f.js",
+    "static/js/453.1b6d1e41.chunk.js": "/ReactLoginSingup/static/js/453.1b6d1e41.chunk.js",
+    "index.html": "/ReactLoginSingup/index.html",
+    "main.4209de6f.css.map": "/ReactLoginSingup/static/css/main.4209de6f.css.map",
+    "main.2a3f759f.js.map": "/ReactLoginSingup/static/js/main.2a3f759f.js.map",
+    "453.1b6d1e41.chunk.js.map": "/ReactLoginSingup/static/js/453.1b6d1e41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4209de6f.css",
-    "static/js/main.fc08f7ad.js"
+    "static/js/main.2a3f759f.js"
   ]
 }
