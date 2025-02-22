@@ -2,7 +2,7 @@
   "name": "login-signup",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ton-utilisateur.github.io/login-signup",
+  "homepage": "https://zegganewalid.github.io/ReactLoginSingup/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
